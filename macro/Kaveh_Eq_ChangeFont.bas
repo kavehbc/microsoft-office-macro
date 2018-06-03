@@ -4,7 +4,7 @@ Option Explicit
 'Macro Name: Kaveh_Eq_ChangeFont()
 'Version: 1.0
 '
-'Description: This Macro change the font of all equations in a MS Word document.
+'Description: This macro changes the font of all equations in a MS Word document.
 '
 'This Macro is developed by Kaveh Bakhtiyari, and it is copyrighted.
 'You can use this macro for free, but do not remove this copyright header.
