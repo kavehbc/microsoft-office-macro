@@ -1,6 +1,5 @@
 # Office Macro
-Here are some macros developed for Microsoft Office.
-For more information you can visit my website at [www.bakhtiyari.com](www.bakhtiyari.com).
+Here are some utility macros developed for Microsoft Office.
 
 ## Microsoft Word Macro - VBA
 ### Eq_ChangeFont
@@ -20,3 +19,11 @@ EndNote software does not have any built-in feature to change the color of in-li
 ## Microsoft Powerpoint Macro - VBA
 ### PP_Footer_Outline
 This macro writes the names of the sections in the Powerpoint footer, and it changes the font/color of the current section in order to show which section the slide belongs to. In addition, it writes the active slide number and total number of slides dynamically (e.g. x of X) without hardcoding the total number.
+
+___
+## Developer(s)
+- Kaveh Bakhtiyari - [Website](http://bakhtiyari.com) | [Medium](https://medium.com/@bakhtiyari)
+  | [LinkedIn](https://www.linkedin.com/in/bakhtiyari) | [Github](https://github.com/kavehbc)
+
+## Contribution
+Feel free to join the open-source community and contribute to this repository.
